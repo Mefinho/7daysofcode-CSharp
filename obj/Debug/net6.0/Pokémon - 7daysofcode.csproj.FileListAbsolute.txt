@@ -1,0 +1,21 @@
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\bin\Debug\net6.0\Pokémon - 7daysofcode.exe
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\bin\Debug\net6.0\Pokémon - 7daysofcode.deps.json
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\bin\Debug\net6.0\Pokémon - 7daysofcode.runtimeconfig.json
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\bin\Debug\net6.0\Pokémon - 7daysofcode.dll
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\bin\Debug\net6.0\Pokémon - 7daysofcode.pdb
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\obj\Debug\net6.0\Pokémon - 7daysofcode.csproj.AssemblyReference.cache
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\obj\Debug\net6.0\Pokémon - 7daysofcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\obj\Debug\net6.0\Pokémon - 7daysofcode.AssemblyInfoInputs.cache
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\obj\Debug\net6.0\Pokémon - 7daysofcode.AssemblyInfo.cs
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\obj\Debug\net6.0\Pokémon - 7daysofcode.csproj.CoreCompileInputs.cache
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\obj\Debug\net6.0\Pokémon - 7daysofcode.dll
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\obj\Debug\net6.0\refint\Pokémon - 7daysofcode.dll
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\obj\Debug\net6.0\Pokémon - 7daysofcode.pdb
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\obj\Debug\net6.0\Pokémon - 7daysofcode.genruntimeconfig.cache
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\obj\Debug\net6.0\ref\Pokémon - 7daysofcode.dll
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\bin\Debug\net6.0\RestSharp.dll
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\obj\Debug\net6.0\Pokémon - 7daysofcode.csproj.CopyComplete
+C:\Users\math0\source\repos\Pokémon - 7daysofcode\Pokémon - 7daysofcode\bin\Debug\net6.0\Newtonsoft.Json.dll
