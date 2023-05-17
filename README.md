@@ -3,6 +3,14 @@
 
 ---
 
+### Tecnologias Utilizadas:
+- `C#`
+- `.NET Framework`
+- `PokéAPI`
+- `Json`
+
+---
+
 ### Descrição do projeto:
 
 O 7DaysOfCode C# é um projeto que utiliza da [PokeAPI](https://pokeapi.co), uma API que organiza todos os dados dos jogos de pokémon em arquivos .JSON, para criar um jogo similar aos jogos de Mascotes Digitais Tamagotchi. O projeto utiliza apenas do console e é totalmente baseado em texto, ou seja, necessita que o usuário digite algo no console para continuar.
